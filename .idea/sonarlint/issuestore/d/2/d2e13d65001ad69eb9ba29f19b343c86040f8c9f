@@ -1,0 +1,6 @@
+
+r
+java:S1104
+"UMake gameBoard a static final constant or non-public and provide accessors if needed.(¹¡¨´8ú’ï£Ú.
+N
+java:S1068	",Remove this unused "gameView" private field.(Ø…íşÿÿÿÿ8¶£÷£Ú.
