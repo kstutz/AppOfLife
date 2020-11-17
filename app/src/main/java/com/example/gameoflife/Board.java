@@ -46,7 +46,7 @@ public class Board {
                 int rand = new Random().nextInt(2);
                 System.out.println(rand);
                 if (rand == 0) {
-                    this.grid[i][j].setAlive(true);
+                    this.grid[i][j].setAlive(false);
                 } else {
                     this.grid[i][j].setAlive(true);
                 }
